@@ -27,12 +27,28 @@
             "id": "c48126043d9f2772",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PlayerController.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ba673bff967882c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Script Documentation Template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Script Documentation Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Script Documentation Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Script Documentation Template.md"
+              }
             }
           }
         ]
@@ -155,9 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c48126043d9f2772",
+  "active": "0ba673bff967882c",
   "lastOpenFiles": [
     "PlayerController.md",
+    "Script Documentation Template.md",
     "PlayerDeathController.md"
   ]
 }
