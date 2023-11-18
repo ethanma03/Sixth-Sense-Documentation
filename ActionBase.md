@@ -2,7 +2,7 @@
 ## Overview
 - Purpose:
 - Location in project:
-- Interacting components: [[Folder - Actions]]
+- Interacting components: 
 
 Properties and fields
 - 'propertyName' (What type it is)

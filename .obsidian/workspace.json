@@ -67,8 +67,12 @@
             "id": "bda23e7d575257d9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AudioManager.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -138,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AudioManager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AudioManager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AudioManager.md"
+              }
             }
           }
         ]
@@ -197,6 +205,7 @@
   },
   "active": "bda23e7d575257d9",
   "lastOpenFiles": [
+    "AnimationController.md",
     "ActionBase.md",
     "Folder - Actions.md",
     "PrivateGameView.md",
@@ -222,7 +231,6 @@
     "ViewManager.md",
     "ViewBase.md",
     "CameraController.md",
-    "CameraController 1.md",
     "Templates"
   ]
 }

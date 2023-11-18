@@ -1,7 +1,7 @@
 #Script #Animations
 ## Overview
 - Purpose:
-- Location in project:
+- Location in project: 
 - Interacting components: [link to other docs]
 
 Properties and fields
@@ -59,6 +59,3 @@ List any dependencies the script has, like other scripts, Unity components, or e
 - Issue 1
 	- Role: How it's used in the script
 	- Source: Where it can be found or how it's included
-
-## Known Issues and Limitations
-- Issue 1
