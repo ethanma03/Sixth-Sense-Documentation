@@ -1,4 +1,4 @@
-#Tags
+#Script #Animations
 ## Overview
 - Purpose:
 - Location in project:

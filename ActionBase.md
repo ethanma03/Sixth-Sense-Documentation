@@ -1,8 +1,8 @@
-#Tags
+#Script #Actions 
 ## Overview
 - Purpose:
 - Location in project:
-- Interacting components: [link to other docs]
+- Interacting components: [[Folder - Actions]]
 
 Properties and fields
 - 'propertyName' (What type it is)

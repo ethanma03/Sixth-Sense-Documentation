@@ -1,6 +1,6 @@
-#Tags
+#Script #Animations
 ## Overview
-- Purpose:
+- Purpose: []
 - Location in project:
 - Interacting components: [link to other docs]
 

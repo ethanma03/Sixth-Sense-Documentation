@@ -1,4 +1,4 @@
-#Tags
+#Script #Actions 
 ## Overview
 - Purpose:
 - Location in project:

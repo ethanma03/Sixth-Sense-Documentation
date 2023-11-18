@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be42dedcc01215a0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "908cec342cf1cfa9",
             "type": "leaf",
             "state": {
@@ -41,14 +33,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Script Documentation Template.md",
+                "file": "PlayerController.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f086fbe208c4d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PlayerController.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d4af828468e3f4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ActionBase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bda23e7d575257d9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -77,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Audio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Script Documentation Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Script Documentation Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Script Documentation Template.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -175,11 +195,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c2f6d75dbbc82fc",
+  "active": "bda23e7d575257d9",
   "lastOpenFiles": [
-    "Templates",
-    "PlayerController.md",
-    "Templates/Script Documentation Template.md",
-    "PlayerDeathController.md"
+    "ActionBase.md",
+    "Folder - Actions.md",
+    "PrivateGameView.md",
+    "MenuSettingsViewBase.md",
+    "MenuSettingsView.md",
+    "MenuProfileView.md",
+    "JoinGameView.md",
+    "MenuPrivateLobbyView.md",
+    "MenuMainView.md",
+    "MenuFriendsView.md",
+    "InvisibilityButtonUIController - Copy.md",
+    "InvestigateController.md",
+    "MenuCustomizationView.md",
+    "GameDeathView.md",
+    "PCGameSettingsView.md",
+    "MobileGameSettingsView.md",
+    "GameWheelView.md",
+    "GameSpectateView.md",
+    "GameSettingsViewBase.md",
+    "GameMapView.md",
+    "GameMainView.md",
+    "CanvasController.md",
+    "ViewManager.md",
+    "ViewBase.md",
+    "CameraController.md",
+    "CameraController 1.md",
+    "Templates"
   ]
 }
